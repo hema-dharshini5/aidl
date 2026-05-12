@@ -342,7 +342,7 @@ interface IColorService {
 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/a33c3900-9ad7-4c6b-8ed5-42463ce58b47" />
 
-<img width="2879" height="1799" alt="image" src="https://github.com/user-attachments/assets/3e1f32b2-205a-4dbd-ba83-6cd6cf969434" />
+
 
 
 
