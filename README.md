@@ -351,5 +351,3 @@ Thus a Simple Android Application to create a AIDL interface and communicate the
 
 
 
-## RESULT
-Thus a Simple Android Application to create a AIDL interface and communicate the process between client and server using AIDL interface in Android Studio is developed and executed successfully.
