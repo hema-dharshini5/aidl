@@ -30,7 +30,6 @@ Step 7: Save and run the application.
 ## PROGRAM:
 ```
 /*
-
 Program to print the client/server services using AIDL”.
 Developed by: Hema Dharshini N
 Registeration Number :212223220034
